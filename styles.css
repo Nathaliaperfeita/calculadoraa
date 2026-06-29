@@ -1,0 +1,9 @@
+*{
+  margin:0;
+  padding:0;
+}
+.fundo{
+  background-image: -moz-linear-gradient(45 deg, grey, black);
+heigth:100vh;
+color:black;
+}
