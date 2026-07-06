@@ -6,4 +6,16 @@
   background-image: -moz-linear-gradient(45 deg, grey, black);
 heigth:100vh;
 color:black;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+.calculadora{
+  position: absolute;
+  background-color: rgba(222, 219, 221, 0.507);
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+  border-radius: 15px;
+  padding: 15%;
+  font-size: 20px;
 }
