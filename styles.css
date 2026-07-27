@@ -4,7 +4,7 @@
 }
 .fundo{
   background-image: -moz-linear-gradient(45 deg, grey, black);
-heigth:100vh;
+ heigth:100vh;
 color:black;
 font-family: 'Times New Roman', Times, serif;
 text-align: center;
@@ -18,4 +18,19 @@ text-align: center;
   border-radius: 15px;
   padding: 15%;
   font-size: 20px;
+
+}
+.botao{
+      width: 50px;
+      height: 30px;
+      margin: 3px;
+      font-size: 25px;
+      cursor:pointer;
+      background-color: grey;
+      border: none;
+      color: .black;
+}
+.botao:hover{
+      background-color: black;
+      color: white;
 }
